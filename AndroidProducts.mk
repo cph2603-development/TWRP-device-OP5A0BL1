@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_OP5A0BL1.mk
+    $(LOCAL_DIR)/twrp_OP5A0BL1.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_OP5A0BL1-user \
-    omni_OP5A0BL1-userdebug \
-    omni_OP5A0BL1-eng
+    twrp_OP5A0BL1-user \
+    twrp_OP5A0BL1-userdebug \
+    twrp_OP5A0BL1-eng
